@@ -15,7 +15,7 @@
 You can contribute in any way you want, I'm also up for new name ideas for this app as I think the current one is too bland.
 
 ## To-do
-- Add path memory
+- ~Add path memory~
 - Make a more cli version (promptless version)
 - Make it more visually pleasing
 - A TUI perhaps
