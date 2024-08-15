@@ -16,6 +16,7 @@ You can contribute in any way you want, I'm also up for new name ideas for this 
 
 ## To-do
 - Add path memory
+- Make a more cli version (promptless version)
 - Make it more visually pleasing
 - A TUI perhaps
 
