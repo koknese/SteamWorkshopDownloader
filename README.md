@@ -5,7 +5,7 @@
 ## Dependencies
 - bash
 - steamcmd
-- 
+  
 ## Running
 1. Clone the repo
 2. `chmod +x steamdl.sh`
