@@ -3,7 +3,6 @@
 ### A bash script for downloading workshop items, simple as.
 
 ## Dependencies
-- bash
 - steamcmd
   
 ## Running
@@ -14,10 +13,10 @@
 ## Contributing
 You can contribute in any way you want, I'm also up for new name ideas for this app as I think the current one is too bland.
 
+## Known issues
+- Doesn't work on Gentoo, if steamcmd was installed using the ebuild.
+
 ## To-do
-- ~Add path memory~
-- Make a more cli version (promptless version)
-- Make it more visually pleasing
-- A TUI perhaps
+- Make a promptless version
 
 
