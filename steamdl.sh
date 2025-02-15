@@ -36,5 +36,5 @@ echo    # (optional) move to a new line
 if [[ $REPLY =~ ^[Yy]$ ]]; then
     echo "Initializing script.";
     steamcmd +login anonymous +workshop_download_item $appid $id +quit &&
-    mv "$HOME"/.local/share/Steam/steamapps/workshop/content/"$appid"/"$id" "$path"
+    mv -v "$HOME"/.local/share/Steam/steamapps/workshop/content/"$appid"/"$id" "$path"
 fi
